@@ -1,0 +1,18 @@
+/*
+    Cascading Style Sheet for DragnDrop_JS.html
+*/
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.droptarget {
+    float: left;
+    width: 100px;
+    height: 35px;
+    margin: 15px;
+    padding: 10px;
+    border: 1px solid #aaaaaa;
+}
+.fp {
+    clear: both;
+}
